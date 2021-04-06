@@ -2,7 +2,6 @@
 <p><em>Front End Developer <a href="https://www.caracoltvcorporativo.com/">Caracol Televisión</a></em></p>
 
 [![Linkedin: AndrésMárquez](https://img.shields.io/badge/-AndrésM-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andres-marquez-688a44129/)<br/>
-[![GitHub AndrersJPVI](https://img.shields.io/github/followers/Goye?label=follow&style=social)](https://github.com/AndresJPVI)
 
 **Languages and Tools:**
 <p>
@@ -15,10 +14,14 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="Vue JS" src="https://img.shields.io/badge/-Vue.Js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/-Yarn-02CCEC?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
+  <img alt="Less" src="https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=Less&logoColor=white" />
 </p>
 
 
